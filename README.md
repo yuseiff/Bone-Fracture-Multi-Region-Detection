@@ -47,3 +47,6 @@ The trained model achieves an accuracy of [insert accuracy value] on the test da
 ## Conclusion
 
 The Bone Fracture Multi-Region Detection project demonstrates the application of deep learning techniques for automatic identification and classification of bone fractures in medical images. The trained model can be a valuable tool in assisting medical professionals in diagnosing fractures and determining the affected regions, enabling faster and more accurate patient care.
+
+
+Dataset Link: https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data/code
